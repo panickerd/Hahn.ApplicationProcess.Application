@@ -14,7 +14,7 @@ npm install
 
 ## Start application
 
-Set the web project as startup and run. By default, swagger UI page will open at https://localhost:44395
+Set the web project as startup and run. By default, swagger UI page will open at https://localhost:44395/swagger
 Basic authentication credentials:
 User name: user1
 Password: password1
